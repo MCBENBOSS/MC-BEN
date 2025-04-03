@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+header {
+    background: #333;
+    color: blue;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
